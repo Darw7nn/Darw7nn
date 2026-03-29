@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Banner Darw7nn" src="https://github.com/Darw7nn/Darw7nn/raw/main/Edição_de_Vídeo_e_Grafite_Personalizado.mp4" width="800">
+  <img src="https://github.com/user-attachments/assets/95e0c50d-d0fa-40c2-9cc8-831118129e92" width="800" alt="Banner Darw7nn FATEC">
 </p>
 
 # Olá, eu sou o Fabio! 👋
@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Tenho **19 anos** e sou um entusiasta da tecnologia. Atualmente, estou cursando o **3º semestre de Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC**.
+Tenho **19 anos** e sou um entusiasta da tecnologia em constante evolução. Atualmente, estou cursando o **3º semestre de Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC**.
 
 - 🎓 **FATEC** - Análise e Desenvolvimento de Sistemas (ADS)
 - 📍 Localizado em Itapetininga, SP
@@ -37,6 +37,4 @@ Tenho **19 anos** e sou um entusiasta da tecnologia. Atualmente, estou cursando 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:fabioaugustomc07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
+    <img src="
