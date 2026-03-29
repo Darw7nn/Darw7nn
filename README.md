@@ -1,53 +1,33 @@
-<p align="center">
-  <img alt="Banner Animado Darw7nn" src="https://github.com/user-attachments/assets/57337877-2de1-484f-b357-d4a295d657e6" width="800">
-</p>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-# Olá, eu sou o Fabio! 👋
-
-<hr>
-
-<p align="left">
-  Tenho <strong>19 anos</strong> e sou um entusiasta da tecnologia. Atualmente, estou cursando o <strong>3º semestre de Análise e Desenvolvimento de Sistemas (ADS)</strong> na <strong>FATEC</strong>.
-  Busco construir bases sólidas em lógica de programação e arquitetura de software, aplicando conceitos de performance e escalabilidade em cada novo projeto.
-</p>
-
-<ul>
-  <li>🎓 <b>FATEC</b> - Análise e Desenvolvimento de Sistemas (ADS)</li>
-  <li>📍 Localizado em Itapetininga, SP</li>
-  <li>🎯 Objetivo: Desenvolvedor de Software</li>
-</ul>
-
-<br>
-
-<h3 align="left">💻 No momento estou aprendendo:</h3>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</div>
-
-<br>
-
-<h3 align="left">📈 Estatísticas do GitHub</h3>
+###
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darw7nn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darw7nn&layout=compact&langs_count=7&theme=dracula" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
 </div>
 
-<br>
+###
 
-<h3 align="left">📱 Contato</h3>
-
-<div align="left">
-  <a href="https://www.instagram.com/darw7n_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:fabioaugustomc07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
 </div>
 
-<br>
+###
 
-> "O código é apenas o meio, a solução é o objetivo."
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Darw7nn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=Darw7nn&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darw7nn/Darw7nn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darw7nn/Darw7nn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Darw7nn/Darw7nn/output/pacman-contribution-graph.svg">
+</picture>
+
+###
