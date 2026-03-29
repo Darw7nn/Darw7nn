@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/95e0c50d-d0fa-40c2-9cc8-831118129e92" width="800" alt="Banner Darw7nn FATEC">
+  <img src="https://github.com/user-attachments/assets/7cfa5e05-b327-476a-a343-84105c708bc9" width="800" alt="Banner Darw7nn FATEC">
 </p>
 
 # Olá, eu sou o Fabio! 👋
