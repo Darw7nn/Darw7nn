@@ -1,5 +1,5 @@
 <p align="center">
-  <video src="https://github.com/Darw7nn/Darw7nn/raw/main/Edição_de_Vídeo_e_Grafite_Personalizado.mp4" width="700" autoplay loop muted alt="Animação personalizada Darw7nn FATEC"></video>
+ https://github.com/Darw7nn/Darw7nn/raw/main/Edição_de_Vídeo_e_Grafite_Personalizado.mp4
 </p>
 
 # Olá, eu sou o Fabio! 👋
