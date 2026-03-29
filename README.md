@@ -1,15 +1,13 @@
 # Olá, eu sou o Fabio! 👋
 
 <div align="center">
-  <video src="https://github.com/Darw7nn/Darw7nn/raw/main/Edição_de_Vídeo_e_Grafite_Personalizado.mp4" width="700" autoplay loop muted alt="Animação personalizada Darw7nn FATEC"></video>
+  <img src="Edição_de_Vídeo_e_Grafite_Personalizado.mp4" width="700" alt="Animação personalizada Darw7nn FATEC">
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
-Tenho **19 anos** e sou um estudante da tecnologia em constante evolução. Atualmente, estou cursando o **3º semestre de Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC**.
-
-Meu foco está em construir bases sólidas em lógica de programação e arquitetura de software, aplicando conceitos de performance e escalabilidade.
+Tenho **19 anos** e sou um estudante da tecnologia. Atualmente, estou cursando o **3º semestre de Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC**.
 
 - 🎓 **FATEC** - Análise e Desenvolvimento de Sistemas (ADS)
 - 📍 Localizado em Itapetininga, SP
@@ -18,11 +16,9 @@ Meu foco está em construir bases sólidas em lógica de programação e arquite
 ---
 
 ### 💻 No momento estou aprendendo:
-Dedico meus estudos atuais ao domínio dessas linguagens fundamentais:
-
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
 ---
@@ -38,13 +34,9 @@ Dedico meus estudos atuais ao domínio dessas linguagens fundamentais:
 ### 📱 Contato
 <div align="left">
   <a href="https://www.instagram.com/darw7n_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:fabioaugustomc07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-<br />
-
-> "O código é apenas o meio, a solução é o objetivo."
