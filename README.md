@@ -2,7 +2,7 @@
 
 <p align="center">
   Tenho 19 anos e curso o <strong>3º semestre de Análise e Desenvolvimento de Sistemas (ADS)</strong> na <strong>FATEC</strong> de Itapetininga. <br>
-  Sou um estudante de tecnologia, explorando desde a arquitetura de sistemas até a aplicação de Inteligência Artificial. <br>
+  Sou um estudante da tecnologia, explorando desde a arquitetura de sistemas até a aplicação de Inteligência Artificial. <br>
 </p>
 
 ###
@@ -26,7 +26,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Darw7nn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=Darw7nn&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
 </div>
 
 ###
