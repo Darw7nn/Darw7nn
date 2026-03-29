@@ -1,8 +1,16 @@
+<p align="center">
+
+
+![Edio_de_Vdeo_e_Grafite_Personalizado2-ezgif com-optimize](https://github.com/user-attachments/assets/92062a96-bddf-4f2f-924f-535c13c19801)
+
+
+</p>
+
 <h1 align="center">Olá, eu sou o Fabio! 👋</h1>
 
 <p align="center">
   Tenho 19 anos e curso o <strong>3º semestre de Análise e Desenvolvimento de Sistemas (ADS)</strong> na <strong>FATEC</strong> de Itapetininga. <br>
-  Sou um estudante da tecnologia, explorando desde a arquitetura de sistemas até a aplicação de Inteligência Artificial. <br>
+  Sou um estuadnte da tecnologia, explorando desde a arquitetura de sistemas até a aplicação de Inteligência Artificial. <br>
 </p>
 
 ###
