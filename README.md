@@ -1,17 +1,25 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Olá, eu sou o Fabio! 👋</h1>
+
+<p align="center">
+  Tenho 19 anos e curso o <strong>3º semestre de Análise e Desenvolvimento de Sistemas (ADS)</strong> na <strong>FATEC</strong> de Itapetininga. <br>
+  Sou um estudante de tecnologia, explorando desde a arquitetura de sistemas até a aplicação de Inteligência Artificial. <br>
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=py,cpp" height="60" alt="python and c++ logos" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
+  <a href="https://www.instagram.com/darw7n_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+  <a href="mailto:fabioaugustomc07@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 </div>
 
 ###
@@ -24,11 +32,9 @@
 ###
 
 <picture>
-  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darw7nn/Darw7nn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darw7nn/Darw7nn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Darw7nn/Darw7nn/output/pacman-contribution-graph.svg">
-</picture>
 </picture>
 
 ###
