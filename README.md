@@ -10,7 +10,7 @@
 <h1 align="center">Olá, eu sou o Fabio! 👋</h1>
 
 <p align="center">
-  Tenho 19 anos e curso o <strong>3º semestre de Análise e Desenvolvimento de Sistemas (ADS)</strong> na <strong>FATEC</strong> de Itapetininga. <br>
+  Tenho 19 anos e curso o <strong>4º semestre de Análise e Desenvolvimento de Sistemas (ADS)</strong> na <strong>FATEC</strong> de Itapetininga. <br>
   Sou um estudante de tecnologia, explorando desde a arquitetura de sistemas até a aplicação de Inteligência Artificial. <br>
 </p>
 
